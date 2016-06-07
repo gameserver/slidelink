@@ -12,6 +12,10 @@
 * http://www.slideshare.net/imaifactory/ss-48388661
 * http://www.slideshare.net/MasayoshiKamai/ss-55986522
 * http://www.slideshare.net/kengonakajima1/onlinegame-entrylevel-201305
+* http://www.slideshare.net/satoshiyamafuji/mmo-38310995
+* http://www.slideshare.net/yhonjo/ss-56043422
+* http://www.slideshare.net/yhonjo/cedec20132020-46885143
+* http://www.slideshare.net/HayatoDoi1/ss-62636853
 
 # 海外
 
