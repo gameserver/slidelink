@@ -16,9 +16,10 @@
 * http://www.slideshare.net/yhonjo/ss-56043422
 * http://www.slideshare.net/yhonjo/cedec20132020-46885143
 * http://www.slideshare.net/HayatoDoi1/ss-62636853
+* http://www.slideshare.net/hidetakakojo/elixir-58090331
 
 # 海外
 
 * http://www.slideshare.net/davidsalz54/albion-online-software-architecture-of-an-mmo-talk-at-quo-vadis-2016-berlin
-
+* http://www.slideshare.net/eonblast/an-erlang-game-stack
 
